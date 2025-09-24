@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# PyCharm-specific files
+.idea/
+*.iml
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+
+# Distribution and build files
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+.DS_Store
