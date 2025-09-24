@@ -4,7 +4,7 @@ venv/
 env/
 
 # PyCharm-specific files
-.idea/
+**.idea/
 *.iml
 
 # Byte-compiled Python files
